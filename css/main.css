@@ -1,8 +1,10 @@
-body {
+﻿body {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 20px;
   color: #eee;
-  background-color: #000;
+  /*background-color: #000;*/
+  background-color: rgb(48,55,61);
+
 }
 p {
   line-height: 1.5;
@@ -115,7 +117,7 @@ hr.small {
   .navbar-custom.is-fixed .navbar-brand:hover {
     color: #0085a1;
   }
-  
+
   .navbar-custom.is-fixed .nav li a:hover {
     color: #0085a1;
   }
