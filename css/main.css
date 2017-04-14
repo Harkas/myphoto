@@ -407,4 +407,6 @@ body {
 .fa-stack-2x {
  color: black;
 }
-
+footer {
+  background-color: rgb(223, 223, 223);
+}
