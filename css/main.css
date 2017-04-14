@@ -270,10 +270,11 @@ hr.small {
   border-bottom-left-radius: 5px;
 }
 footer {
-  margin: 10px 0 0px;
+  margin: 5px 0 0px;
+  background-color: rgb(223, 223, 223);
 }
 footer .list-inline {
-  margin: 0;
+  margin: 5px 0;
   padding: 0;
 }
 footer .copyright {
@@ -407,6 +408,4 @@ body {
 .fa-stack-2x {
  color: black;
 }
-footer {
-  background-color: rgb(223, 223, 223);
-}
+
