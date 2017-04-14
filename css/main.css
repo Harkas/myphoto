@@ -271,6 +271,7 @@ hr.small {
 }
 footer {
   margin: 5px 0 0px;
+  padding: 10px 0 0px;
   background-color: rgb(223, 223, 223);
 }
 footer .list-inline {
